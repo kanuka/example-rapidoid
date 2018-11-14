@@ -1,0 +1,4 @@
+entity-packages: org.example.myapp.domain
+transactional-packages: org.example.myapp
+querybean-packages: org.example.myapp
+
