@@ -1,14 +1,12 @@
 package org.example.myapp;
 
 import io.ebean.Ebean;
-import io.kanuka.ContextModule;
 import io.kanuka.SystemContext;
 import org.rapidoid.annotation.Controller;
 import org.rapidoid.setup.App;
 
 import java.util.List;
 
-@ContextModule(name = "myapp")
 public class Main {
 
   public static void main(String[] args) {

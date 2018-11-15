@@ -25,13 +25,13 @@
     <dependency>
       <groupId>io.kanuka</groupId>
       <artifactId>kanuka</artifactId>
-      <version>0.3</version>
+      <version>0.4-SNAPSHOT</version>
     </dependency>
 
     <dependency>
       <groupId>io.kanuka</groupId>
       <artifactId>kanuka-generator</artifactId>
-      <version>0.3</version>
+      <version>0.4-SNAPSHOT</version>
       <scope>provided</scope>
     </dependency>
 
